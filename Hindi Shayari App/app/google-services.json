@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884318100889",
+    "project_id": "hindi-shayari-app-f2d60",
+    "storage_bucket": "hindi-shayari-app-f2d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884318100889:android:c2fe22b6e0ddb4be450708",
+        "android_client_info": {
+          "package_name": "com.devdroid.hindishayariapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884318100889-mo682avblj19r96m72vl3q1fc4krlmc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchwmeOHR_-WERdD5D_LVlpjL7HAAe6PU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884318100889-mo682avblj19r96m72vl3q1fc4krlmc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
